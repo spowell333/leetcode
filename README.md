@@ -3,11 +3,15 @@
 Example code from leet code
 ===========================
 
-https://leetcode.com/problemset/algorithms/
-
-https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings
+[problems]: https://leetcode.com/problemset/algorithms/
 
 
-http://www.scala-lang.org/old/node/345
+[bc]: https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings
+[scala-maven]: http://www.scala-lang.org/old/node/345
 
-http://books.sonatype.com/mcookbook/reference/scala.html
+[inline-scala-maven]: http://books.sonatype.com/mcookbook/reference/scala.html
+[git-log]: https://coderwall.com/p/euwpig/a-better-git-log
+
+
+Reference for  [markdown]
+    [markdown]: http://daringfireball.net/projects/markdown/index.text
